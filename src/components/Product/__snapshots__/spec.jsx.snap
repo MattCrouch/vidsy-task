@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<li
+  className="product"
+>
+  <img
+    alt="T-Shirt"
+    className="product__thumbnail"
+    src="images/t-shirt.jpg"
+  />
+  <h3
+    className="product__name"
+  >
+    T-Shirt
+  </h3>
+  <h4
+    className="product__brand"
+  >
+    Brand A
+  </h4>
+  <span
+    className="product__color"
+  >
+    black
+  </span>
+  <span
+    className="product__size"
+  >
+    medium
+  </span>
+  <span
+    className="product__price"
+  >
+    £
+    1.23
+  </span>
+</li>
+`;

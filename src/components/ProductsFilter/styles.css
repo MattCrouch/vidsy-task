@@ -1,0 +1,9 @@
+.productsFilter {
+  flex: 1;
+  padding: 0 1em;
+}
+
+.productsFilterPrice {
+  display: inline-block;
+  margin-right: 1em;
+}

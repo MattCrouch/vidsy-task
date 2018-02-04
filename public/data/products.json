@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "X Small Black",
+    "brand": "Brand A",
+    "color": "black",
+    "size": "x-small",
+    "price": 1000,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Small Black",
+    "brand": "Brand A",
+    "color": "black",
+    "size": "small",
+    "price": 1100,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Medium Black",
+    "brand": "Brand A",
+    "color": "black",
+    "size": "medium",
+    "price": 1200,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Large Black",
+    "brand": "Brand A",
+    "color": "black",
+    "size": "large",
+    "price": 1300,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "X Large Black",
+    "brand": "Brand A",
+    "color": "black",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "X Small White",
+    "brand": "Brand A",
+    "color": "white",
+    "size": "x-small",
+    "price": 1000,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Small White",
+    "brand": "Brand A",
+    "color": "white",
+    "size": "small",
+    "price": 1100,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Medium White",
+    "brand": "Brand A",
+    "color": "white",
+    "size": "medium",
+    "price": 1200,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Large White",
+    "brand": "Brand A",
+    "color": "white",
+    "size": "large",
+    "price": 1300,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "X Large White",
+    "brand": "Brand A",
+    "color": "white",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 11,
+    "name": "X Small Red",
+    "brand": "Brand A",
+    "color": "red",
+    "size": "x-small",
+    "price": 1000,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Small Red",
+    "brand": "Brand A",
+    "color": "red",
+    "size": "small",
+    "price": 1100,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Medium Red",
+    "brand": "Brand A",
+    "color": "red",
+    "size": "medium",
+    "price": 1200,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Large Red",
+    "brand": "Brand A",
+    "color": "red",
+    "size": "large",
+    "price": 1300,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 15,
+    "name": "X Large Red",
+    "brand": "Brand A",
+    "color": "red",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 16,
+    "name": "X Small Blue",
+    "brand": "Brand A",
+    "color": "blue",
+    "size": "x-small",
+    "price": 1000,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Small Blue",
+    "brand": "Brand A",
+    "color": "blue",
+    "size": "small",
+    "price": 1100,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Medium Blue",
+    "brand": "Brand A",
+    "color": "blue",
+    "size": "medium",
+    "price": 1200,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Large Blue",
+    "brand": "Brand A",
+    "color": "blue",
+    "size": "large",
+    "price": 1300,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 20,
+    "name": "X Large Blue",
+    "brand": "Brand A",
+    "color": "blue",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 21,
+    "name": "X Small Green",
+    "brand": "Brand A",
+    "color": "green",
+    "size": "x-small",
+    "price": 1000,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Small Green",
+    "brand": "Brand A",
+    "color": "green",
+    "size": "small",
+    "price": 1100,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Medium Green",
+    "brand": "Brand A",
+    "color": "green",
+    "size": "medium",
+    "price": 1200,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Large Green",
+    "brand": "Brand A",
+    "color": "green",
+    "size": "large",
+    "price": 1300,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 25,
+    "name": "X Large Green",
+    "brand": "Brand A",
+    "color": "green",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 26,
+    "name": "X Large Green",
+    "brand": "Brand B",
+    "color": "green",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  },
+  {
+    "id": 27,
+    "name": "X Large Green",
+    "brand": "Brand C",
+    "color": "green",
+    "size": "x-large",
+    "price": 1400,
+    "thumbnailUri": "/vidsy-logo.jpg"
+  }
+]
